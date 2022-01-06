@@ -1,7 +1,5 @@
 <template>
-  <div class="home">
-    我是附近地址
-  </div>
+    我是附近店铺
 </template>
 
 <script>
